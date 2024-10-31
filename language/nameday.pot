@@ -1,0 +1,212 @@
+# Copyright (C) 2012 Nameday
+# This file is distributed under the same license as the Nameday package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nameday 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/nameday\n"
+"POT-Creation-Date: 2012-09-30 10:46:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: nameday.php:218 nameday.php:491 nameday.php:701
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: nameday.php:235 nameday.php:245 nameday.php:497
+msgid "Settings"
+msgstr ""
+
+#: nameday.php:236
+msgid "Donate with PayPal"
+msgstr ""
+
+#: nameday.php:289
+msgid "Dont reading .mo files!"
+msgstr ""
+
+#: nameday.php:346
+msgid "Label:"
+msgstr ""
+
+#: nameday.php:414 nameday.php:416
+msgid "Current date is %s."
+msgstr ""
+
+#: nameday.php:443
+msgid "Welcome to our visitors and teammates who called %s!"
+msgstr ""
+
+#: nameday.php:465
+msgid "Next name-day will be tomorrow %s."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Nameday 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: nameday.php:497 nameday.php:766
+msgid "Nameday"
+msgstr ""
+
+#: nameday.php:499 nameday.php:620
+msgid "Languages"
+msgstr ""
+
+#: nameday.php:505
+msgid "Flag"
+msgstr ""
+
+#: nameday.php:506
+msgid "Name"
+msgstr ""
+
+#: nameday.php:507 nameday.php:651
+msgid ".mo files"
+msgstr ""
+
+#: nameday.php:508 nameday.php:655
+msgid "dataTables"
+msgstr ""
+
+#: nameday.php:571
+msgid "Language is already enabled or invalid!"
+msgstr ""
+
+#: nameday.php:580
+msgid "Cannot disable Default Language!"
+msgstr ""
+
+#: nameday.php:583
+msgid "No such language!"
+msgstr ""
+
+#: nameday.php:589
+msgid "Language is already disabled!"
+msgstr ""
+
+#: nameday.php:608
+msgid "If you use the plugin, make a donation!"
+msgstr ""
+
+#: nameday.php:640
+msgid "Disable"
+msgstr ""
+
+#: nameday.php:640
+msgid "Enable"
+msgstr ""
+
+#: nameday.php:641
+msgid "Installed!"
+msgstr ""
+
+#: nameday.php:641
+msgid "Missing"
+msgstr ""
+
+#: nameday.php:651
+msgid "These .mo, .po files are installed in language subdirectory."
+msgstr ""
+
+#: nameday.php:655
+msgid "Nameday of these countries in the wp_nevnap table. Read only."
+msgstr ""
+
+#: nameday.php:679
+msgid "No name days!!"
+msgstr ""
+
+#: nameday.php:684 nameday.php:745
+msgid "Welcome to our visitors and teammates who called %%name%%!"
+msgstr ""
+
+#: nameday.php:689 nameday.php:746
+msgid "Next name-day will be tomorrow %%name%%."
+msgstr ""
+
+#: nameday.php:741
+msgid "Settings saved."
+msgstr ""
+
+#: nameday.php:747
+msgid "No name days!"
+msgstr ""
+
+#: nameday.php:753
+msgid "Settings restored."
+msgstr ""
+
+#: nameday.php:767
+msgid "Which days should be displayed?"
+msgstr ""
+
+#: nameday.php:771
+msgid "Only today"
+msgstr ""
+
+#: nameday.php:774
+msgid "Today and tomorrow"
+msgstr ""
+
+#: nameday.php:776
+msgid "Today template:"
+msgstr ""
+
+#: nameday.php:778
+msgid "Tomorrow template:"
+msgstr ""
+
+#: nameday.php:780
+msgid "Text when no records found:"
+msgstr ""
+
+#: nameday.php:782
+msgid "Text color:"
+msgstr ""
+
+#: nameday.php:786
+msgid "Save"
+msgstr ""
+
+#: nameday.php:789
+msgid "Template variables:"
+msgstr ""
+
+#: nameday.php:790
+msgid "Display the nameday."
+msgstr ""
+
+#: nameday.php:792
+msgid "Restore Defaults"
+msgstr ""
+
+#: nameday.php:792
+msgid "Whould you like to reset settings?"
+msgstr ""
+
+#: nameday.php:797
+msgid "If you use the plugin, make a donatione!"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Nameday 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Nameday 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://nameday.castorlandbt.eu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The plugin (widget) displays the current (and optionally tomorrow's) name-day"
+"(s)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "István Faur"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "multilingual, multi, language, name, widget, nameday"
+msgstr ""

@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nameday 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-29 21:07+0100\n"
+"PO-Revision-Date: 2012-09-29 21:07+0100\n"
+"Last-Translator: Faur István <ifaur@freemail.hu>\n"
+"Language-Team: István Faur <ifaur@freemail.hu>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../nameday.php:259 ../nameday.php:529 ../nameday.php:804
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Non si dispone di autorizzazioni sufficienti per accedere a questa pagina."
+
+#: ../nameday.php:276 ../nameday.php:286 ../nameday.php:535
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../nameday.php:277
+msgid "Donate with PayPal"
+msgstr "Donate with PayPal"
+
+#: ../nameday.php:330
+msgid "Dont reading .mo files!"
+msgstr "Dont lettura file .mo!"
+
+#: ../nameday.php:387
+msgid "Label:"
+msgstr "Etichetta:"
+
+#: ../nameday.php:452 ../nameday.php:454
+#, php-format
+msgid "Current date is %s."
+msgstr "La data è %s."
+
+#: ../nameday.php:481
+#, php-format
+msgid "Welcome to our visitors and teammates who called %s!"
+msgstr ""
+"Benvenuto ai nostri visitatori e compagni di squadra che hanno invitato %s!"
+
+#: ../nameday.php:503
+#, php-format
+msgid "Next name-day will be tomorrow %s."
+msgstr "Avanti onomastico sarà %s domani."
+
+#: ../nameday.php:535 ../nameday.php:887
+msgid "Nameday"
+msgstr "Nome del giorno"
+
+#: ../nameday.php:537 ../nameday.php:656
+msgid "Languages"
+msgstr "Lingue"
+
+#: ../nameday.php:543
+#, fuzzy
+msgid "Default"
+msgstr "Ripristina impostazioni predefinite"
+
+#: ../nameday.php:544
+msgid "Flag"
+msgstr "Bandiera"
+
+#: ../nameday.php:545
+msgid "Name"
+msgstr "Nome"
+
+#: ../nameday.php:546 ../nameday.php:728
+msgid ".mo files"
+msgstr ".mo file"
+
+#: ../nameday.php:547 ../nameday.php:732
+msgid "dataTables"
+msgstr "Nome giorni"
+
+#: ../nameday.php:611
+msgid "Language is already enabled or invalid!"
+msgstr "Il linguaggio è già abilitato o non valido!"
+
+#: ../nameday.php:620
+msgid "Cannot disable Default Language!"
+msgstr "Impossibile disabilitare lingua predefinita!"
+
+#: ../nameday.php:623
+msgid "No such language!"
+msgstr "Nessun linguaggio del genere!"
+
+#: ../nameday.php:629
+msgid "Language is already disabled!"
+msgstr "Il linguaggio è già disabilitato!"
+
+#: ../nameday.php:644
+msgid "If you use the plugin, make a donation!"
+msgstr "Se si utilizza il plugin, fare una donazione!"
+
+#: ../nameday.php:677 ../nameday.php:853
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: ../nameday.php:717
+msgid "Disable"
+msgstr "Disattiva"
+
+#: ../nameday.php:717
+msgid "Enable"
+msgstr "Permettere"
+
+#: ../nameday.php:718
+msgid "Installed!"
+msgstr "Installato!"
+
+#: ../nameday.php:718
+msgid "Missing"
+msgstr "Perdere"
+
+#: ../nameday.php:728
+msgid "These .mo, .po files are installed in language subdirectory."
+msgstr ""
+
+#: ../nameday.php:732
+msgid "Nameday of these countries in the wp_nevnap table. Read only."
+msgstr ""
+
+#: ../nameday.php:736
+msgid "Default language settings"
+msgstr ""
+
+#: ../nameday.php:741
+#, php-format
+msgid "WPLANG(%s)"
+msgstr ""
+
+#: ../nameday.php:747
+#, php-format
+msgid "Browser using languages(%s)"
+msgstr ""
+
+#: ../nameday.php:751 ../nameday.php:923
+msgid "Save"
+msgstr "Salvare"
+
+#: ../nameday.php:782
+msgid "No name days!!"
+msgstr "Nessun onomastici!!"
+
+#: ../nameday.php:787 ../nameday.php:860
+#, php-format
+msgid "Welcome to our visitors and teammates who called %%name%%!"
+msgstr ""
+"Benvenuto ai nostri visitatori e compagni di squadra che hanno invitato %% "
+"name%%!"
+
+#: ../nameday.php:792 ../nameday.php:861
+#, php-format
+msgid "Next name-day will be tomorrow %%name%%."
+msgstr "Avanti onomastico sarà %%name%% domani."
+
+#: ../nameday.php:862
+msgid "No name days!"
+msgstr "Non onomastici!"
+
+#: ../nameday.php:868
+msgid "Settings restored."
+msgstr "Impostazioni restaurato."
+
+#: ../nameday.php:888
+msgid "Which days should be displayed?"
+msgstr "Quali giorni deve essere visualizzato?"
+
+#: ../nameday.php:892
+msgid "Only today"
+msgstr "Solo oggi"
+
+#: ../nameday.php:895
+msgid "Today and tomorrow"
+msgstr "Oggi e domani"
+
+#: ../nameday.php:897
+msgid "Today template:"
+msgstr "Oggi modello:"
+
+#: ../nameday.php:899
+msgid "Tomorrow template:"
+msgstr "Domani modello:"
+
+#: ../nameday.php:901
+msgid "Text when no records found:"
+msgstr "Testo quando non record trovati:"
+
+#: ../nameday.php:903
+msgid "Text color:"
+msgstr "Colore del testo:"
+
+#: ../nameday.php:908
+#, fuzzy
+msgid "Bubble_settings"
+msgstr "Impostazioni"
+
+#: ../nameday.php:911
+msgid "Bubble on(default)"
+msgstr ""
+
+#: ../nameday.php:914
+msgid "Bubble off"
+msgstr ""
+
+#: ../nameday.php:915
+msgid "Bubble background color:"
+msgstr ""
+
+#: ../nameday.php:918
+#, fuzzy
+msgid "Bubble text color:"
+msgstr "Colore del testo:"
+
+#: ../nameday.php:926
+msgid "Template variables:"
+msgstr "Template variabili:"
+
+#: ../nameday.php:927
+msgid "Display the nameday."
+msgstr "Visualizza l'onomastico."
+
+#: ../nameday.php:929
+msgid "Restore Defaults"
+msgstr "Ripristina impostazioni predefinite"
+
+#: ../nameday.php:929
+msgid "Whould you like to reset settings?"
+msgstr "Whould volete ripristinare le impostazioni?"
+
+#: ../nameday.php:934
+#, fuzzy
+msgid "If you use the plugin, make a donatione!"
+msgstr "Se si utilizza il plugin, fare una donazione!"
+
+#~ msgid "Today is %s."
+#~ msgstr "Oggi è il %s."
+
+#~ msgid "Welcome named %s visitors, fellow team!"
+#~ msgstr "Benvenuto chiamato visitatori %s, compagni di squadra!"
+
+#, fuzzy
+#~ msgid "Welcome named %%name%% visitors, fellow team!"
+#~ msgstr "Benvenuto chiamato visitatori %s, compagni di squadra!"
+
+#~ msgid "Tomorrow will be name-day %%name%%!"
+#~ msgstr "Holnap %%name%% névnap lesz!"
+
+#~ msgid "Action"
+#~ msgstr "Művelet"
+
+#~ msgid "Events"
+#~ msgstr "Események"

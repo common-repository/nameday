@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nameday 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-29 21:08+0100\n"
+"PO-Revision-Date: 2012-09-29 21:08+0100\n"
+"Last-Translator: Faur István <ifaur@freemail.hu>\n"
+"Language-Team: István Faur <ifaur@freemail.hu>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../nameday.php:259 ../nameday.php:529 ../nameday.php:804
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nem rendelkezik megfelelő jogosultsággal az oldal megtekintéséhez."
+
+#: ../nameday.php:276 ../nameday.php:286 ../nameday.php:535
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../nameday.php:277
+msgid "Donate with PayPal"
+msgstr ""
+
+#: ../nameday.php:330
+msgid "Dont reading .mo files!"
+msgstr ""
+
+#: ../nameday.php:387
+msgid "Label:"
+msgstr "Etiqueta:"
+
+#: ../nameday.php:452 ../nameday.php:454
+#, php-format
+msgid "Current date is %s."
+msgstr "Fecha actual es %s."
+
+#: ../nameday.php:481
+#, php-format
+msgid "Welcome to our visitors and teammates who called %s!"
+msgstr ""
+"Bienvenido a nuestros visitantes y compañeros de equipo que se llamaban %s!"
+
+#: ../nameday.php:503
+#, php-format
+msgid "Next name-day will be tomorrow %s."
+msgstr "Siguiente onomástico será mañana %s."
+
+#: ../nameday.php:535 ../nameday.php:887
+#, fuzzy
+msgid "Nameday"
+msgstr "Névnapok"
+
+#: ../nameday.php:537 ../nameday.php:656
+msgid "Languages"
+msgstr "Nyelvek"
+
+#: ../nameday.php:543
+#, fuzzy
+msgid "Default"
+msgstr "Alapbeállítások viszaállítása"
+
+#: ../nameday.php:544
+msgid "Flag"
+msgstr ""
+
+#: ../nameday.php:545
+msgid "Name"
+msgstr "Név"
+
+#: ../nameday.php:546 ../nameday.php:728
+msgid ".mo files"
+msgstr ""
+
+#: ../nameday.php:547 ../nameday.php:732
+msgid "dataTables"
+msgstr ""
+
+#: ../nameday.php:611
+msgid "Language is already enabled or invalid!"
+msgstr "Nyelv már engedélyezve van, vagy érvénytelen!"
+
+#: ../nameday.php:620
+msgid "Cannot disable Default Language!"
+msgstr "Nem lehet letiltani Alapértelmezett nyelv!"
+
+#: ../nameday.php:623
+msgid "No such language!"
+msgstr "Nincs ilyen nyelv!"
+
+#: ../nameday.php:629
+msgid "Language is already disabled!"
+msgstr "Language ya está habilitado!"
+
+#: ../nameday.php:644
+msgid "If you use the plugin, make a donation!"
+msgstr ""
+
+#: ../nameday.php:677 ../nameday.php:853
+#, fuzzy
+msgid "Settings saved."
+msgstr "beállítások mentve,"
+
+#: ../nameday.php:717
+msgid "Disable"
+msgstr "Tiltás"
+
+#: ../nameday.php:717
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#: ../nameday.php:718
+#, fuzzy
+msgid "Installed!"
+msgstr "Uninstall"
+
+#: ../nameday.php:718
+msgid "Missing"
+msgstr ""
+
+#: ../nameday.php:728
+msgid "These .mo, .po files are installed in language subdirectory."
+msgstr ""
+
+#: ../nameday.php:732
+msgid "Nameday of these countries in the wp_nevnap table. Read only."
+msgstr ""
+
+#: ../nameday.php:736
+msgid "Default language settings"
+msgstr ""
+
+#: ../nameday.php:741
+#, php-format
+msgid "WPLANG(%s)"
+msgstr ""
+
+#: ../nameday.php:747
+#, php-format
+msgid "Browser using languages(%s)"
+msgstr ""
+
+#: ../nameday.php:751 ../nameday.php:923
+msgid "Save"
+msgstr "Mentés"
+
+#: ../nameday.php:782
+msgid "No name days!!"
+msgstr ""
+
+#: ../nameday.php:787 ../nameday.php:860
+#, php-format
+msgid "Welcome to our visitors and teammates who called %%name%%!"
+msgstr ""
+"Bienvenido a nuestros visitantes y compañeros de equipo que se llamaban "
+"%%name%%!"
+
+#: ../nameday.php:792 ../nameday.php:861
+#, php-format
+msgid "Next name-day will be tomorrow %%name%%."
+msgstr "Siguiente onomástico será mañana %%name%%."
+
+#: ../nameday.php:862
+msgid "No name days!"
+msgstr ""
+
+#: ../nameday.php:868
+#, fuzzy
+msgid "Settings restored."
+msgstr "beállítások mentve,"
+
+#: ../nameday.php:888
+msgid "Which days should be displayed?"
+msgstr ""
+
+#: ../nameday.php:892
+msgid "Only today"
+msgstr "csak ma"
+
+#: ../nameday.php:895
+msgid "Today and tomorrow"
+msgstr "Ma és holnap"
+
+#: ../nameday.php:897
+msgid "Today template:"
+msgstr ""
+
+#: ../nameday.php:899
+msgid "Tomorrow template:"
+msgstr ""
+
+#: ../nameday.php:901
+msgid "Text when no records found:"
+msgstr ""
+
+#: ../nameday.php:903
+msgid "Text color:"
+msgstr ""
+
+#: ../nameday.php:908
+#, fuzzy
+msgid "Bubble_settings"
+msgstr "Configuración"
+
+#: ../nameday.php:911
+msgid "Bubble on(default)"
+msgstr ""
+
+#: ../nameday.php:914
+msgid "Bubble off"
+msgstr ""
+
+#: ../nameday.php:915
+msgid "Bubble background color:"
+msgstr ""
+
+#: ../nameday.php:918
+msgid "Bubble text color:"
+msgstr ""
+
+#: ../nameday.php:926
+msgid "Template variables:"
+msgstr ""
+
+#: ../nameday.php:927
+msgid "Display the nameday."
+msgstr ""
+
+#: ../nameday.php:929
+msgid "Restore Defaults"
+msgstr "Alapbeállítások viszaállítása"
+
+#: ../nameday.php:929
+msgid "Whould you like to reset settings?"
+msgstr "Szeretné visszaállítani a beállításokat?"
+
+#: ../nameday.php:934
+msgid "If you use the plugin, make a donatione!"
+msgstr ""
+
+#~ msgid "Today is %s."
+#~ msgstr "Hoy es %s."
+
+#~ msgid "Welcome named %s visitors, fellow team!"
+#~ msgstr "Bienvenido nombrados visitantes %s, el equipo de compañero!"
+
+#, fuzzy
+#~ msgid "Welcome named %%name%% visitors, fellow team!"
+#~ msgstr "Bienvenido nombrados visitantes %s, el equipo de compañero!"
+
+#~ msgid "Action"
+#~ msgstr "Művelet"
+
+#~ msgid "Events"
+#~ msgstr "Események"

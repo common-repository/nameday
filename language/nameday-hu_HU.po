@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nameday 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-30 18:33+0100\n"
+"PO-Revision-Date: 2012-09-30 18:33+0100\n"
+"Last-Translator: Faur István <ifaur@freemail.hu>\n"
+"Language-Team: István Faur <ifaur@freemail.hu>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../nameday.php:261 ../nameday.php:526 ../nameday.php:791
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nem rendelkezik megfelelő jogosultsággal az oldal megtekintéséhez."
+
+#: ../nameday.php:278 ../nameday.php:288 ../nameday.php:532
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../nameday.php:279
+msgid "Donate with PayPal"
+msgstr "Adomány PayPal-l"
+
+#: ../nameday.php:332
+msgid "Dont reading .mo files!"
+msgstr "Nem lehet olvasni az .mo fájlokat!"
+
+#: ../nameday.php:394
+msgid "Label:"
+msgstr "Címke:"
+
+#: ../nameday.php:449 ../nameday.php:451
+#, php-format
+msgid "Current date is %s."
+msgstr "Ma %s van."
+
+#: ../nameday.php:478
+#, php-format
+msgid "Welcome to our visitors and teammates who called %s!"
+msgstr "Üdvözöljük %s nevű látogatóinkat!"
+
+#: ../nameday.php:500
+#, php-format
+msgid "Next name-day will be tomorrow %s."
+msgstr "Holnap %s névnap lesz."
+
+#: ../nameday.php:532 ../nameday.php:874
+msgid "Nameday"
+msgstr "Névnap"
+
+#: ../nameday.php:534 ../nameday.php:653
+msgid "Languages"
+msgstr "Nyelvek"
+
+#: ../nameday.php:540
+#, fuzzy
+msgid "Default"
+msgstr "Alapbeállítások viszaállítása"
+
+#: ../nameday.php:541
+msgid "Flag"
+msgstr "Jelző"
+
+#: ../nameday.php:542
+msgid "Name"
+msgstr "Név"
+
+#: ../nameday.php:543 ../nameday.php:715
+msgid ".mo files"
+msgstr ".mo fájlok"
+
+#: ../nameday.php:544 ../nameday.php:719
+msgid "dataTables"
+msgstr "Névnapok"
+
+#: ../nameday.php:608
+msgid "Language is already enabled or invalid!"
+msgstr "Nyelv már engedélyezve van, vagy érvénytelen!"
+
+#: ../nameday.php:617
+msgid "Cannot disable Default Language!"
+msgstr "Nem lehet letiltani Alapértelmezett nyelv!"
+
+#: ../nameday.php:620
+msgid "No such language!"
+msgstr "Nincs ilyen nyelv!"
+
+#: ../nameday.php:626
+msgid "Language is already disabled!"
+msgstr "Nyelv már le van tiltva!"
+
+#: ../nameday.php:641
+msgid "If you use the plugin, make a donation!"
+msgstr "Ha használható a plugin, akkor küldj adományt!"
+
+#: ../nameday.php:674 ../nameday.php:840
+msgid "Settings saved."
+msgstr "Beállítások mentve."
+
+#: ../nameday.php:704
+msgid "Disable"
+msgstr "Tiltás"
+
+#: ../nameday.php:704
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#: ../nameday.php:705
+msgid "Installed!"
+msgstr "Telepítve!"
+
+#: ../nameday.php:705
+msgid "Missing"
+msgstr "Hiányzik"
+
+#: ../nameday.php:715
+#, fuzzy
+msgid "These .mo, .po files are installed in language subdirectory."
+msgstr ""
+"Ezek az.mo, .po fájlok vannak installálva a \"language\" alkönyvtárban."
+
+#: ../nameday.php:719
+msgid "Nameday of these countries in the wp_nevnap table. Read only."
+msgstr "Az egyes országok névnapjai a wp_nevnap táblában. Csak olvasható."
+
+#: ../nameday.php:723
+msgid "Default language settings"
+msgstr "Alapértelmezett nyelv beállítása"
+
+#: ../nameday.php:728
+#, php-format
+msgid "WPLANG(%s)"
+msgstr "WPLANG(%s)"
+
+#: ../nameday.php:734
+#, php-format
+msgid "Browser using languages(%s)"
+msgstr "Böngésző által használt nyelvek(%s)"
+
+#: ../nameday.php:738 ../nameday.php:910
+msgid "Save"
+msgstr "Mentés"
+
+#: ../nameday.php:769
+msgid "No name days!!"
+msgstr "Nincsenek névnapok!"
+
+#: ../nameday.php:774 ../nameday.php:847
+#, php-format
+msgid "Welcome to our visitors and teammates who called %%name%%!"
+msgstr "Üdvözöljük %%name%% nevű látogatóinkat!"
+
+#: ../nameday.php:779 ../nameday.php:848
+#, php-format
+msgid "Next name-day will be tomorrow %%name%%."
+msgstr "Holnap %%name%% névnap lesz."
+
+#: ../nameday.php:849
+msgid "No name days!"
+msgstr "Nincsenek névnapok!"
+
+#: ../nameday.php:855
+msgid "Settings restored."
+msgstr "Beállítások visszaállítva."
+
+#: ../nameday.php:875
+msgid "Which days should be displayed?"
+msgstr "Melyik napokat kell megjeleníteni?"
+
+#: ../nameday.php:879
+msgid "Only today"
+msgstr "Csak ma"
+
+#: ../nameday.php:882
+msgid "Today and tomorrow"
+msgstr "Ma és holnap"
+
+#: ../nameday.php:884
+msgid "Today template:"
+msgstr "Ma sablon:"
+
+#: ../nameday.php:886
+msgid "Tomorrow template:"
+msgstr "Holnap sablon szöveg:"
+
+#: ../nameday.php:888
+msgid "Text when no records found:"
+msgstr "Szöveg, ha nincs rekord:"
+
+#: ../nameday.php:890
+msgid "Text color:"
+msgstr "Szöveg szín:"
+
+#: ../nameday.php:895
+msgid "Bubble_settings"
+msgstr "Buborék beállítások"
+
+#: ../nameday.php:898
+msgid "Bubble on(default)"
+msgstr "Buborék be(alapértelmezett)"
+
+#: ../nameday.php:901
+msgid "Bubble off"
+msgstr "Buborék ki"
+
+#: ../nameday.php:902
+msgid "Bubble background color:"
+msgstr "Buborék háttérszíne:"
+
+#: ../nameday.php:905
+msgid "Bubble text color:"
+msgstr "Buborék szöveg szín:"
+
+#: ../nameday.php:913
+msgid "Template variables:"
+msgstr "Sablon változó:"
+
+#: ../nameday.php:914
+msgid "Display the nameday."
+msgstr "Névnapok megjelenítése."
+
+#: ../nameday.php:916
+msgid "Restore Defaults"
+msgstr "Alapbeállítások viszaállítása"
+
+#: ../nameday.php:916
+msgid "Whould you like to reset settings?"
+msgstr "Szeretné visszaállítani a beállításokat?"
+
+#: ../nameday.php:921
+msgid "If you use the plugin, make a donatione!"
+msgstr "Ha használható a plugin, akkor küldj adományt!"
+
+#~ msgid "Today is %s."
+#~ msgstr "Ma %s van."
+
+#~ msgid "Welcome named %s visitors, fellow team!"
+#~ msgstr "Köszöntjük %s nevű látogatóinkat, csapattársainkat!"
+
+#~ msgid "Tomorrow will be name-day %s!"
+#~ msgstr "Holnap %s névnap lesz!"
+
+#, fuzzy
+#~ msgid "Welcome named %%name%% visitors, fellow team!"
+#~ msgstr "Köszöntjük %s nevű látogatóinkat, csapattársainkat!"
+
+#, fuzzy
+#~ msgid "Tomorrow will be name-day %%name%%!"
+#~ msgstr "Holnap %s névnap lesz!"
+
+#~ msgid "Uninstall"
+#~ msgstr "Uninstall"
+
+#~ msgid "Action"
+#~ msgstr "Művelet"
+
+#~ msgid "Events"
+#~ msgstr "Események"
